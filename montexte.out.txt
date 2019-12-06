@@ -1,0 +1,6 @@
+Nombre de A : 2
+Nombre de E : 16
+Nombre de I : 2
+Nombre de O : 7
+Nombre de U : 1
+Nombre de Y : 1
